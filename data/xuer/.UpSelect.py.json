@@ -1,6 +1,6 @@
 {
     "type": "script",
-    "description": "browser",
+    "description": "UpSelect.py",
     "store": {},
     "modes": [
         3
@@ -19,9 +19,10 @@
     },
     "hotkey": {
         "modifiers": [
-            "<ctrl>"
+            "<ctrl>",
+            "<shift>"
         ],
-        "hotKey": "b"
+        "hotKey": "i"
     },
     "filter": {
         "regex": null,
