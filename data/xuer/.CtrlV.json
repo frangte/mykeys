@@ -1,10 +1,13 @@
 {
-    "type": "folder",
-    "title": "xuer",
+    "type": "script",
+    "description": "CtrlV",
+    "store": {},
     "modes": [
         3
     ],
-    "usageCount": 1279,
+    "usageCount": 1,
+    "prompt": false,
+    "omitTrigger": false,
     "showInTrayMenu": false,
     "abbreviation": {
         "abbreviations": [],
@@ -16,9 +19,9 @@
     },
     "hotkey": {
         "modifiers": [
-            "<ctrl>"
+            "<alt>"
         ],
-        "hotKey": "<f7>"
+        "hotKey": "v"
     },
     "filter": {
         "regex": null,
