@@ -15,7 +15,7 @@
             1363,
             681
         ],
-        "hPanePosition": 626,
+        "hPanePosition": 276,
         "columnWidths": [
             150,
             50,
@@ -32,6 +32,7 @@
     "toggleServiceHotkey": {
         "enabled": true,
         "modifiers": [
+            "<ctrl>",
             "<shift>",
             "<super>"
         ],
